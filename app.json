@@ -38,6 +38,10 @@
     "Error_user_info": {
        "description": "Error_user_info",
        "value": "120"
+    },
+    "PORT": {
+       "description": "PORT",
+       "value": "8868"
     }
   },
   "website": "https://hub.docker.com/r/sbwml/alist",
